@@ -1,6 +1,6 @@
 {
   "name": "react-native-customized-star-rating",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Customized star rating with animation ",
   "main": "index.js",
   "scripts": {
