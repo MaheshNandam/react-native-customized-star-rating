@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 
-export default class Star extends Component {
+export default class CustomizedStarRating extends Component {
     constructor(props) {
         super(props);
         this.state = {
