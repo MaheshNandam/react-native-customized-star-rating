@@ -17,12 +17,12 @@ refer my blog: https://medium.com/
 
 ## Table of Contents:
 1. [Prerequisites](#Prerequisites)
-1. [Installation](#installation)
-2. [Required Props](#Required props)
-3. [Demo](#Demo)
-4. [Usage](#Usage)
-5. [Roadmap](#roadmap)
-6. [Authors](#Authors)
+2. [Installation](#installation)
+3. [Props](#props)
+4. [Demo](#Demo)
+5. [Usage](#Usage)
+6. [Roadmap](#roadmap)
+7. [Authors](#Authors)
 
 
 ### Prerequisites:
@@ -45,7 +45,7 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
   <img src="https://user-images.githubusercontent.com/13198616/50558040-99a6e400-0d10-11e9-9ee3-50879e7ffeb8.gif" alt="Customized rating star" width="336" height="700"/>
 </p>
 
-### Required Props:
+### Props:
 
 | Prop | Type | Description | Required | Default |
 |---|---|---|---|---|
