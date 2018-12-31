@@ -7,8 +7,6 @@ import {
     Easing,
     TouchableWithoutFeedback
 } from 'react-native';
-
-
 export default class CustomizedStarRating extends Component {
     constructor(props) {
         super(props);
