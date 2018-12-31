@@ -1,14 +1,14 @@
-[![npm version](https://badge.fury.io/js/react-native-star-rating.svg)](https://badge.fury.io/js/react-native-star-rating)
+[![npm version](https://badge.fury.io/js/react-native-customized-star-rating.svg)](https://www.npmjs.com/package/react-native-customized-star-rating)
 
-[![NPM](https://nodei.co/npm/react-native-star-rating.png?downloads=true)](https://nodei.co/npm/react-native-star-rating/)
+[![NPM](https://nodei.co/npm/react-native-customized-star-rating.png?downloads=true)](https://www.npmjs.com/package/react-native-customized-star-rating)
 
 # React-Native-Customized-Star-Rating Component:
 
-> A React Native component for generating and displaying interactive star ratings. Compatible with both iOS and Android.
+- Customized animated star rating in react-native which is compatible for both IOS and Android.
 
 ### Advantages:
-- User can change star look and feel by changing star image
-- User can customise star image animation by changing easing animation value
+- User can change star view look and feel by changing star image
+- User can customize star image animation by modifying the easing animation value
 - User can give star count to display how many stars required to render
 - Customized star component can accept 2 types of image importing from both local and URL based.
 
@@ -23,10 +23,6 @@ refer my blog: https://medium.com/
 4. [Roadmap](#roadmap)
 5. [Authors](#Authors)
 
-
-<p align="center">
-  <img src="https://github.com/djchie/react-native-star-rating/blob/master/assets/general-star-demo.gif" alt="Customized rating star" width="336" height="600"/>
-</p>
 
 ### Prerequisites:
 shell, brew, watchman, npm, react-native-cli - these are the packages which were need to be installed.
@@ -44,6 +40,13 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
 
 ### Required Props:
 
+
+
+### Demo:
+
+<p align="center">
+  <img src="https://github.com/djchie/react-native-star-rating/blob/master/assets/general-star-demo.gif" alt="Customized rating star" width="336" height="600"/>
+</p>
 
 ### Usage:
 
