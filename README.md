@@ -13,7 +13,7 @@
 - Customized star component can accept 2 types of image importing from both local and URL based.
 
 ## Before Getting Started:
-refer my blog: https://medium.com/
+refer my blog: https://medium.com/@maheshnandam
 
 ## Table of Contents:
 1. [Prerequisites](#Prerequisites)
@@ -22,7 +22,7 @@ refer my blog: https://medium.com/
 4. [Demo](#Demo)
 5. [Usage](#Usage)
 6. [Roadmap](#roadmap)
-7. [Authors](#Authors)
+7. [Author](#Author)
 
 
 ### Prerequisites:
@@ -99,6 +99,5 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
 ## Roadmap:
 - View the project roadmap [here](https://github.com/MaheshNandam/react-native-customized-star-rating/issues)
 
-
-### Authors:
+### Author:
 - Mahesh Nandam** - [Linkedin](https://www.linkedin.com/in/maheshnandam/)
