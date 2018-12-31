@@ -101,4 +101,4 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
 
 
 ### Authors:
-- Mahesh Nandam** - [GitHub](https://github.com/MaheshNandam)
+- Mahesh Nandam** - [Linkedin](https://www.linkedin.com/in/maheshnandam/)
