@@ -21,7 +21,6 @@
 6. [Roadmap](#roadmap)
 7. [Author](#Author)
 
-
 ### Prerequisites:
 shell, brew, watchman, npm, react-native-cli - these are the packages which were need to be installed.
 
