@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/react-native-customized-star-rating.svg)](https://www.npmjs.com/package/react-native-customized-star-rating)
+[![npm version](https://badge.fury.io/js/react-native-customized-star-rating.svg)](https://badge.fury.io/js/react-native-customized-star-rating)
 
 [![NPM](https://nodei.co/npm/react-native-customized-star-rating.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-native-customized-star-rating/)
 
