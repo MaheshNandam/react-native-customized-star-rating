@@ -97,5 +97,5 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
 - View the project roadmap [here](https://github.com/MaheshNandam/react-native-customized-star-rating/issues)
 
 ### Author:
-- Mahesh Nandam** - [Linkedin](https://www.linkedin.com/in/maheshnandam/)
+- Mahesh Nandam: [Linkedin](https://www.linkedin.com/in/maheshnandam/)
 - For my blogs: [Medium](https://medium.com/@maheshnandam)
