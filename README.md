@@ -12,9 +12,6 @@
 - User can give star count to display how many stars required to render
 - Customized star component can accept 2 types of image importing from both local and URL based.
 
-## Before Getting Started:
-refer my blog: https://medium.com/@maheshnandam
-
 ## Table of Contents:
 1. [Prerequisites](#Prerequisites)
 2. [Installation](#installation)
@@ -101,3 +98,4 @@ shell, brew, watchman, npm, react-native-cli - these are the packages which were
 
 ### Author:
 - Mahesh Nandam** - [Linkedin](https://www.linkedin.com/in/maheshnandam/)
+- For my blogs: [Medium](https://medium.com/@maheshnandam)
